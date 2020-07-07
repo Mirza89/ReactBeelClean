@@ -1,0 +1,23 @@
+.color-block-5 {
+  height: 200px;
+  width: 200px;
+}
+
+#Farbanje{
+  background: rgb(2,0,36);
+  background: linear-gradient(23deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 0%, rgba(0,162,255,1) 35%);
+}
+
+#GlavniText{
+  background: rgb(2,0,36);
+  background: linear-gradient(174deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 27%, rgba(0,162,255,1) 52%);
+}
+
+#prviText{
+  color: white;
+}
+
+#GlavnaSekcija{
+  padding-top: -120px;
+  padding-bottom: -120px;
+}
